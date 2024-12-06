@@ -1,2 +1,0 @@
-# Pythonclass
-Group assigment python
